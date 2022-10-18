@@ -14,8 +14,7 @@ esto es el header
 # Israel Huacce
 Bienvenido a mi Blog Personal!!
 
-## Acerca de mí
-🎓Universidad Nacional San Cristóbal de Huamanga
+
 
 
 
@@ -26,6 +25,7 @@ Bienvenido a mi Blog Personal!!
 
 
 
-esto es el footer
+## Acerca de mí
+🎓Contabilidad y Auditoría en Universidad Nacional San Cristóbal de Huamanga
 
 </div></div>
