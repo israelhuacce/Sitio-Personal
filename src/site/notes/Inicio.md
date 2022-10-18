@@ -23,6 +23,6 @@
 
 
 
-🎓Contabilidad y Auditoría en Universidad Nacional San Cristóbal de Huamanga
+Contactame: +51 935057604
 
 </div></div>
