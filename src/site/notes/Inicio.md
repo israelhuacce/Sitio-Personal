@@ -3,17 +3,8 @@
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-esto es el header
-
-</div></div>
-
-# Israel Huacce
-Bienvenido a mi Blog Personal!!
-
+# Contabilidad
+- [[Documentación/Asientos contables comúnes|Asientos contables comúnes]]
 
 
 
