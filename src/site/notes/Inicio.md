@@ -18,14 +18,10 @@ Bienvenido a mi Blog Personal!!
 
 
 
-
-
-
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
-## Acerca de mí
 🎓Contabilidad y Auditoría en Universidad Nacional San Cristóbal de Huamanga
 
 </div></div>
