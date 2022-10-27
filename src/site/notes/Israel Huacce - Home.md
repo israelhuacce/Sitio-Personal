@@ -3,12 +3,6 @@
 ---
 
 
-
-
-
-# Acerca de mí
-Hola soy Israel Huacce, estudiante de 🎓 Contabilidad y Auditoría.
-
 # Mi repositorio
 
 
