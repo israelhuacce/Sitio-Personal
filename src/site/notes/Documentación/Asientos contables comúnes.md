@@ -7,7 +7,7 @@ Aquí encontrarás los asientos contables más comúnes.
 >Si buscas un asiento en específico, presiona "Ctrl + f" y escribe tu palabra clave.
 
 ### Almacenamiento y desalmacenamiento
-[[Cuentas para producción|Cuentas para producción]]
+[[Documentación/Cuentas para producción|Cuentas para producción]]
 ``` 
 ---Almacenamiento de mercaderías---
 2011 XXX
