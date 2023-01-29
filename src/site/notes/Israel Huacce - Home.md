@@ -9,6 +9,7 @@
 | File                                                                        | Cover                                                                                                                | Creado        | actualizado      | Tema                |
 | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------- | ---------------- | ------------------- |
 | [[Documentación/Asientos contables comúnes.md\|Asientos contables comúnes]] | ![coverURL\|90](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF01qcBhvDFE5Qhy-NCiHvieQYEORUOqNRFQ&usqp=CAU) | July 12, 2022 | January 29, 2023 | Contabilidad básica |
+| [[Documentación/Cuentas para producción.md\|Cuentas para producción]]       | ![coverURL\|90](https://cdn.actualicese.com/fotos/E-contabilidad-construccion-costos.jpg)                            | \-            | \-               | \-                  |
 
 # Referencias
 - [Steam](https://steamcommunity.com/profiles/76561198153710108/)
